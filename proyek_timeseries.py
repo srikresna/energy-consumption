@@ -8,8 +8,7 @@ Original file is located at
 
 1. Nama : Sri Kresna Maha Dewa
 2. Asal Instansi : Politeknik Negeri Malang
-3. TTL : Sumberpucung, Malang
-4. Email : srikresna383@gmail.com
+3. Email : srikresna383@gmail.com
 """
 
 !pip install -q kaggle
